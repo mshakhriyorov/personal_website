@@ -13,7 +13,7 @@ const introdata = {
     first: "I develop web apps",
     second: "React JS is what I prefer and use",
   },
-  description: "Important: I am not a model!",
+  description: "Frontend developer",
   your_img_url: image,
 };
 
