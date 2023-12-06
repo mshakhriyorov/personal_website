@@ -4,14 +4,14 @@ const logotext = "M";
 const meta = {
   title: "Mukhriddin",
   description:
-    "I’m Mukhriddin Shakhriyorov Front-end devloper, currently working in NY,USA remotely",
+    "I'm Mukhriddin Shakhriyorov Front-end devloper with 2+ years professional experience",
 };
 
 const introdata = {
-  title: "I’m Mukhriddin Shakhriyorov",
+  title: "I'm Mukhriddin Shakhriyorov",
   animated: {
     first: "I develop web apps",
-    second: "React JS is what I prefer and use",
+    second: "2+ years of professional experience",
   },
   description: "Frontend developer",
   your_img_url: image,
@@ -21,35 +21,20 @@ const dataabout = {
   title: "I am ",
   aboutme: "Self-learner enthusiast from Kashkadarya, Uzbekistan",
 };
-// const worktimeline = [{
-//         jobtitle: "Designer of week",
-//         where: "YAdfi",
-//         date: "2020",
-//     },
-//     {
-//         jobtitle: "Designer of week",
-//         where: "Jamalya",
-//         date: "2019",
-//     },
-//     {
-//         jobtitle: "Designer of week",
-//         where: "ALquds",
-//         date: "2019",
-//     },
-// ];
+
 
 const skills = [
   {
     name: "JavaScript",
-    value: 70,
+    value: 80,
   },
   {
     name: "React",
-    value: 65,
+    value: 90,
   },
   {
     name: "Redux",
-    value: 70,
+    value: 80,
   },
   {
     name: "Git",
